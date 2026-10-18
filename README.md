@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Kevin 👋</h1>
+<h1 align="center">Hello, I'm Kevin 👋</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -46,4 +46,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-chan-kang-le/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:chankangle.kevin@gmail.com)
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=kevinn-chan&show_icons=true&hide_border=true&theme=tokyonight" height="150" /></p>
