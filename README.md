@@ -15,7 +15,7 @@
 - 🚀 **AI Engineer** @ Applied Materials, *Upcoming*
 - 🛡️ Previously **Data Science (NLP) Intern** @ MINDEF
 - 🏆 **DSTA BrainHack 2026 TIL-AI** Advanced Track Finalist
-- ⚡ Fun fact: I got a voice agent's response time down from ~3.4s to 250ms and I'm still a bit too proud of it
+- ⚡ Fun fact: My profile pic is me crashing out during my first ever hackathon
 
 ### 🛠️ Things I've built
 
